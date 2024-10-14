@@ -1,0 +1,11 @@
+Municipio,Distancia (km),Tráfico,Clima,Tiempo de llegada (min),Tiempo de regreso (min)
+Envigado,10,Moderado,Soleado,15,15
+Itagüí,12,Moderado,Soleado,20,20
+Sabaneta,15,Bajo,Soleado,25,25
+Bello,12,Alto,Lluvia,30,30
+La Estrella,20,Moderado,Nublado,35,35
+Copacabana,15,Bajo,Soleado,25,25
+Girardota,20,Moderado,Nublado,40,40
+Barbosa,25,Alto,Lluvia,50,50
+Caldas,30,Bajo,Soleado,45,45
+Medellín,0,Moderado,Soleado,0,0
